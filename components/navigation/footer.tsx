@@ -109,6 +109,7 @@ export function Footer() {
   ]
 
   const quickLinks = [
+    { href: "/admission", label: "Admission" },
     { href: "/career-bank", label: "Career Bank" },
     { href: "/quiz", label: "Interest Quiz" },
     { href: "/multimedia", label: "Multimedia Guidance" },
